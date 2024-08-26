@@ -1,0 +1,39 @@
+# Compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Environment variables
+*.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Database
+*.db
+*.sqlite3
+
+# Static files
+staticfiles/
+mediafiles/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
