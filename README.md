@@ -17,4 +17,5 @@ nothing very special about this project except this is the first project i uploa
 
 > 1. Expand the uploader input
 > 2. Upload your image
-> 3. Download image grayscale
+> 3. Image will show original and result you can download
+> 4. Download image grayscale
